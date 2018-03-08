@@ -29,9 +29,9 @@ var articles = {
             </p>`
     },
     'article-two':{
-        title:'Article 1 | Albert Abraham',
-        heading:'Article 1',
-        date:'8th March',
+        title:'Article 2 | Albert Abraham',
+        heading:'Article 2',
+        date:'9th March',
         content:`
             <p>
                 Est dolore sed consequatur autem ut tenetur est ut. Corporis eos qui eveniet aut et consectetur. Itaque provident autem
